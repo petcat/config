@@ -1,0 +1,9 @@
+{
+    "server": "::",
+    "server_port": 40404,
+    "password": "A9cF9aFFbB11c72c49fC10bDF0f75eeD",
+    "method": "chacha20-ietf-poly1305",
+    "local_address": "127.0.0.1",
+    "mode":"tcp_and_udp",
+    "fast_open":true    
+}
